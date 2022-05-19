@@ -1,0 +1,26 @@
+a:hover{
+text-decoration: none;
+color:black;
+}
+
+a{
+color:black;
+}
+
+.centeredFormText{
+text-align: center;
+}
+
+.justifiedFormText{
+text-align: justify;
+}
+
+.rigthFormText{
+text-align: right;
+}
+
+
+.leftFormText{
+text-align: left;
+}
+
